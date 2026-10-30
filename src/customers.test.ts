@@ -7,7 +7,7 @@ const ada: Customer = {
   id: "cus_1",
   email: "ada@example.test",
   name: "Ada Lovelace",
-  phone: "+4420790460",
+  phone_number: "+4420790460",
 };
 
 const realFetch = globalThis.fetch;

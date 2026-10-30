@@ -5,7 +5,7 @@ export interface Customer {
   id: string;
   email: string;
   name: string;
-  phone: string;
+  phone_number: string;
 }
 
 function authHeaders() {
